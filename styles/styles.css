@@ -1,0 +1,23 @@
+div.rotate {
+    width: 150px;
+    height: 80px;
+    background-color: rgb(236, 132, 236);
+    -ms-transform: rotate(20deg);
+    transform: rotate(20deg);
+  }
+  
+  div.skewY {
+    width: 150px;
+    height: 80px;
+    background-color: rgb(236, 132, 236);
+    -ms-transform: skewY(30deg);
+    transform: skewY(25deg);
+  }
+  
+  div.scaleY {
+    width: 150px;
+    height: 80px;
+    background-color: rgb(236, 132, 236);
+    -ms-transform: scaleY(1.5);
+    transform: scaleY(1.5);
+  }
